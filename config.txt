@@ -1,6 +1,6 @@
-token=NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g
+token=NTM3NTg2NjkzNTc5MDc5Njgw.DynddQ.1rsacOp0EmqFgeS-eTOiFYp5His
 owner=433198762706599936
-prefix=#
-game= one is here ..
+prefix=n
+game= pretty design ..
 stayinchannel=true
 songinstatus=true 
